@@ -13,7 +13,7 @@
 
 * Click below link, then deselect all other services and select "Google Pay" and then take out the data:
 
-https://takeout.google.com/?continue=https://myaccount.google.com/dashboard&hl=en&pli=1
+   https://takeout.google.com/?continue=https://myaccount.google.com/dashboard&hl=en&pli=1
 
 or
   
