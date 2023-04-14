@@ -10,6 +10,11 @@
  This code calculates and displays total expenses of group members from a Google pay's JSON file. It reads group expense data, calculates the total expenses for each member across different groups, and prints the results. It's helpful for managing shared expenses in a group.
 
 ## How to get Google Pay Transaction Json Data?
+
+* Click below link, then deselect all other services and select "Google Pay" and then take out the data:
+https://takeout.google.com/?continue=https://myaccount.google.com/dashboard&hl=en&pli=1
+
+or
   
 The steps to export Google Pay transaction data:
 
