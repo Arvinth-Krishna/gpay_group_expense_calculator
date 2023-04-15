@@ -9,7 +9,7 @@
   
 This code calculates and displays the total expenses of group members from a Google Pay JSON file. It reads the group expense data, calculates the total expenses for each member across different groups, and prints the results. It's helpful for managing shared expenses in a group.
 
-## How to run this expense calculator script?
+## How to run the group expense calculator script?
 
 * Firstly, make sure that you have Python installed on your system. If you don't have Python, you can download it from the official website of Python.
 
@@ -92,4 +92,4 @@ If you found this project helpful and want to thank me, consider buying me a cup
 If you found this project helpful, please consider giving it a **⭐ on Github and sharing it with your friends via social media**.
 
 
-### [⟰ Jump to the top](https://github.com/Arvinth-Krishna/gpay_group_expense_calculator)
+### [⟰ Jump to the top](https://github.com/Arvinth-Krishna/gpay_group_expense_calculator#gpay-group-expense-calculator)
