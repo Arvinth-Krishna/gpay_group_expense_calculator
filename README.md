@@ -7,7 +7,7 @@
 </p>
  </div align="center">
   
- This code calculates and displays total expenses of group members from a Google pay's JSON file. It reads group expense data, calculates the total expenses for each member across different groups, and prints the results. It's helpful for managing shared expenses in a group.
+This code calculates and displays the total expenses of group members from a Google Pay JSON file. It reads the group expense data, calculates the total expenses for each member across different groups, and prints the results. It's helpful for managing shared expenses in a group.
 
 ## How to run this expense calculator script?
 
