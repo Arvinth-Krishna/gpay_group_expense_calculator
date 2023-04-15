@@ -76,4 +76,20 @@ The steps to export Google Pay transaction data:
   * Once the export is complete, you will receive a notification or an email with a link to download your Google Pay transaction data in the chosen file format and delivery method.
   
   
-  
+## Donate  [↟](https://github.com/Arvinth-Krishna/Reco-PC-Server#quick-jumps) 
+
+	
+If you found this project helpful and want to thank me, consider buying me a cup of ☕
+
+
+<a href="https://www.paypal.com/paypalme/gak15"><img width="140" src="https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404__480.png"></a>
+
+
+<a href="https://www.buymeacoffee.com/ArvinthKrishna"><img width="140"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+
+	
+## ❤️ Found this project helpful?
+If you found this project helpful, please consider giving it a **⭐ on Github and sharing it with your friends via social media**.
+
+
+### [⟰ Jump to the top](https://github.com/Arvinth-Krishna/gpay_group_expense_calculator)
