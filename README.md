@@ -2,7 +2,7 @@
 <h1>Gpay Group Expense Calculator</h1>
 <p align="center">
 
-<a  href="https://github.com/Arvinth-Krishna/gpay_group_expense_calculator" ><img  width="265" height="250" alt="GPay Expense Calculator Logo" title="Google Pay Expense Calculator" src="https://github.com/Arvinth-Krishna/gpay_group_expense_calculator/blob/main/GPay%20Expense%20Calculator.png"></a>
+<a  href="https://github.com/Arvinth-Krishna/gpay_group_expense_calculator" ><img  width="265" height="250" alt="GPay Expense Calculator Logo" title="Google Pay Expense Calculator" src="https://user-images.githubusercontent.com/49812701/232184286-0fe3b3e3-d0de-481c-850c-beb45c9daaa2.png"></a>
 
 </p>
  </div align="center">
