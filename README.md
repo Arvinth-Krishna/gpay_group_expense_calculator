@@ -9,7 +9,41 @@
   
  This code calculates and displays total expenses of group members from a Google pay's JSON file. It reads group expense data, calculates the total expenses for each member across different groups, and prints the results. It's helpful for managing shared expenses in a group.
 
-## How to get Google Pay Transaction Json Data?
+## How to run this expense calculator script?
+
+* Firstly, make sure that you have Python installed on your system. If you don't have Python, you can download it from the official website of Python.
+
+* Next, go to the GitHub repository for the expense calculator script using the link: https://github.com/Arvinth-Krishna/gpay_group_expense_calculator
+
+* On the repository's homepage, click on the "Code" button and then click on "Download ZIP". This will download the repository as a ZIP file to your system.
+
+* Extract the ZIP file to a location of your choice.
+
+* Follow the instructions given in the "[How to get Google Pay transaction JSON data](https://github.com/Arvinth-Krishna/gpay_group_expense_calculator#how-to-get-google-pay-transaction-json-data)" section of the repository's README file to download your Google Pay transaction details.
+
+* In the downloaded repository's folder, you will find a file called "group_expense.json". Replace this file with the JSON file that you downloaded in the previous step.
+
+* Once you have downloaded your transaction details replaced, navigate to the downloaded repository's folder on your system using the command prompt or terminal. For example, if you have extracted the ZIP file to your Downloads folder on a Windows system, you can navigate to the repository's folder using the following command:
+   
+   ```
+   cd C:\Users\username\Downloads\gpay_group_expense_calculator-main\gpay_group_expense_calculator-main
+   Make sure to replace "username" with your actual username on the system.
+   ```
+* Finally, run the script by typing the following command in the command prompt or terminal:
+   
+   ```
+   python gpay_group_expense_calculator.py
+   ```
+   
+   This will run the expense calculator script and provide you with the output.
+   
+Output Screenshot:
+
+![image](https://user-images.githubusercontent.com/49812701/232183220-4c59b09e-d1b2-4b0a-87e5-914127e20566.png)
+
+   
+ 
+ ## How to get Google Pay Transaction Json Data?
 
 * Click below link, then deselect all other services and select "Google Pay" and then take out the data:
 
@@ -40,3 +74,6 @@ The steps to export Google Pay transaction data:
   * Follow any additional prompts or instructions provided by Google to confirm and complete the export process.
 
   * Once the export is complete, you will receive a notification or an email with a link to download your Google Pay transaction data in the chosen file format and delivery method.
+  
+  
+  
